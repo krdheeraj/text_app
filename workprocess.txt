@@ -1,0 +1,12 @@
+1. Hide code from user 
+
+2. Print module test using print command 
+
+3. Installer for windows 32 bit
+
+4. update po system software from git,bitbucket or gitlab
+
+5. superAdmin process
+
+
+
